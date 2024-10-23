@@ -3,7 +3,7 @@
 - 🇻🇳 Vietnam -> 1st -> Beautiful Place
 - 🌱 I’m currently learning Embedded System at DUT/VietNam. 
 ## About Me
-I am passionate about **embedded systems** and **firmware development**. My work involves designing and optimizing code for microcontrollers, integrating hardware with software, and developing efficient, reliable systems. I am constantly exploring new technologies and improving my skills in **C/C++**, **RTOS**, and **embedded Linux**.
+I am passionate about **embedded systems** and **firmware development**. My work involves designing and optimizing code for microcontrollers, integrating hardware with software, and developing efficient, reliable systems. I am constantly exploring new technologies and improving my skills in **C/C++**, **RTOS**, and **Embedded Linux**.
 
 ## Projects
 Here, you will find a collection of my projects, ranging from simple microcontroller-based applications to more complex embedded systems. Each project is an opportunity to showcase my skills
